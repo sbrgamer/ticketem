@@ -1,4 +1,4 @@
-  
+// DO NOT EDIT EXCEPT LINE 14 | PUT YOUR BOT INVITE IN THE () | GO TO LINE 13 AND ADD YOUR DISCORD INVITE TO THE ()
 const Discord = require("discord.js");
 
 module.exports.run = async (bot, message, args) => {
