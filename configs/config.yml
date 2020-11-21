@@ -1,0 +1,20 @@
+##########################################
+#                                        #
+#            Setup Config                #
+#                                        #
+##########################################
+
+    color: "#9348FE" #HEXCOLOR
+    token: "YOUR_BOT_TOKEN"
+    status: "em!help"
+    prefix: "em!"
+
+##########################################
+#                                        #
+#               Ticket Config            #
+#                                        #
+########################################## 
+
+    seeTicket: "Support Team"
+    ticketCategory: "Tickets"
+    # DO NOT EDIT OR WILL NOT WORK
